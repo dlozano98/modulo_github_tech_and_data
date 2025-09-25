@@ -1,1 +1,1 @@
-"La simplicitud es la m xima sofisticaci¢n" 
+"He cambiado el texto, ya no hay simplicidad" 
